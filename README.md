@@ -1,13 +1,1 @@
-# `react-dialog`
-
-## Installation
-
-```sh
-$ yarn add @radix-ui/react-dialog
-# or
-$ npm install @radix-ui/react-dialog
-```
-
-## Usage
-
-View docs [here](https://radix-ui.com/primitives/docs/components/dialog).
+This is a fork of `@radix-ui/react-dialog@0.0.8`, with a patch that fixes the type definition issue from [[RFC] React 18 and types-only breaking changes](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/46691)
